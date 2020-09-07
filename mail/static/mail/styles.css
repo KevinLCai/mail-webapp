@@ -1,0 +1,24 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    margin-top: 10px;
+    padding: 15px;
+    background-color: gray;
+    cursor: pointer;
+}
+
+.unread {
+    margin-top: 10px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.email {
+    white-space: pre-wrap;
+}
+
+div {
+    border: thick solid black;
+}
